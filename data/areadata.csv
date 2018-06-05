@@ -1,0 +1,41 @@
+# New Area
+#
+neutral=white
+B=block,0
+T=tree,0,0,cut
+G=grass,1,0
+W=warp,1,0,None,None,0:1:6
+X=warp,1,0,None,None,0:8:6
+Y=warp,1,0,None,None,1:3:7
+_=bg_grass,1,0
+MAP
+BBBBBBBBBB
+B_ _ _ GGB
+B T _ _ _B
+B_ _ _ _ B
+B _ _ _ _B
+B_ _ _ _ B
+BX_ _ _ WB
+B_ Y _ _ B
+BBBBBBBBBB
+
+# New Area
+#
+neutral=white
+B=block,0
+T=tree,0,0,cut
+G=grass,1,0
+W=warp,1,0,None,None,1:1:6
+X=warp,1,0,None,None,1:8:6
+Y=warp,1,0,None,None,0:3:7
+_=bg_grass,1,0
+MAP
+TTTTTTTTTT
+TGGGGGGGGT
+TGBGGGGGGT
+TGGGGGGGGT
+T _ _ _ _T
+T_ _ _ _ T
+TX_ _ _ WT
+T_ Y _ _ T
+TTTTTTTTTT

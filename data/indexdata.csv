@@ -1,0 +1,14 @@
+000;Egg;None;None;0,0,0,0,0,0;1000;001
+001;Bulbasaur;Grass;Poison;45,49,49,65,65,45;16;002
+002;Ivysaur;Grass;Poison;60,62,63,80,80,60;32;003
+003;Venusaur;Grass;Poison;80,82,83,100,100,80;None;None
+004;Charmander;Fire;None;39,52,43,60,50,65;16;005
+005;Charmeleon;Fire;None;58,64,58,80,65,80;36;006
+006;Charizard;Fire;Flying;78,84,78,109,85,100;None;None
+007;Squirtle;Water;None;44,48,65,50,64,43;16;008
+008;Wartortle;Water;None;59,63,80,65,80,58;36;009
+009;Blastoise;Water;None;79,83,100,85,105,78;None;None
+010;Caterpie;Bug;None;45,30,35,20,20,45;7;011
+011;Metapod;Bug;None;50,20,55,25,25,30;10;012
+012;Butterfree;Bug;Flying;60,45,50,90,80,70;None;None
+013;Mew;Psychic;None;100,100,100,100,100,100;None;None
